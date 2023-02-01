@@ -1,6 +1,9 @@
 # 透過螢幕截圖擷取畫面資訊，低成本整合不同系統資訊
 
-直接點此連結
+實時截圖判別程式如下
+https://github.com/theandyhuang/get_screen_number/blob/main/screen_shot_realtime.ipynb
+
+這是用截圖下來的圖片做的，下方演示效果是用這支程式做的
 https://github.com/theandyhuang/get_screen_number/blob/main/screen_shot_organized.ipynb
 
 演示: 如下圖，偵測圖片中某區塊包含0的座標，並將其框出來
